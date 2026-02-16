@@ -8,26 +8,25 @@ This is my personal space to learn & experiment with new technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-jay-vj/)   [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://valuemaximizer.substack.com/)  
 
+## 🚀 Projects
 
-## 🚀 Machine Learning Projects 
+- [x] **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
+    - *Use Case:* A strategy & ops planner for CEOs.
+    - *Tools:* flask, ollama
+    
+- [ ] **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
+    - *Use Case:* A business app using LLM to generate & render the front-end HTML
+    - *Tools:* flask, ollama
 
-A curated list of **ML projects** with **use cases, datasets, and tools**.  
-
-
-## 🟢 Completed Projects
-
-- [x] **Predict Housing Prices**  [price_predictor](https://github.com/varun-jay-vj/ml-price-predictor.git)
+- [x] **[Predict Housing Prices](https://github.com/varun-jay-vj/ml-price-predictor.git)** 
   - *Use Case:* Estimate house prices based on features  
   - *Dataset:* [California Housing](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
   - *Tools:* Scikit-learn, Pandas, Matplotlib
      
-- [x] **CIFAR-10 Image Classifier**  [image_classifier](https://github.com/varun-jay-vj/ml-image-classifier)
+- [x] **[CIFAR-10 Image Classifier](https://github.com/varun-jay-vj/ml-image-classifier)**
   - *Use Case:* Classify small images  
   - *Dataset:* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)  
   - *Tools:* PyTorch  
-
-
-## 🟡 Backlog
 
 - [ ] **Iris Flower Classification**  
   - *Use Case:* Classify iris species  
