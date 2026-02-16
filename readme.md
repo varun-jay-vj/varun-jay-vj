@@ -16,12 +16,12 @@ A curated list of **ML projects** with **use cases, datasets, and tools**.
 
 ## 🟢 Completed Projects
 
-- [x] **Predict Housing Prices**  [price_predictor](price_predictor)
+- [x] **Predict Housing Prices**  [price_predictor](https://github.com/varun-jay-vj/ml-price-predictor.git)
   - *Use Case:* Estimate house prices based on features  
   - *Dataset:* [California Housing](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
   - *Tools:* Scikit-learn, Pandas, Matplotlib
      
-- [x] **CIFAR-10 Image Classifier**  [image_classifier](image_classifier)
+- [x] **CIFAR-10 Image Classifier**  [image_classifier](https://github.com/varun-jay-vj/ml-image-classifier)
   - *Use Case:* Classify small images  
   - *Dataset:* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)  
   - *Tools:* PyTorch  
