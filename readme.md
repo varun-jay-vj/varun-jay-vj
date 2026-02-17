@@ -10,14 +10,18 @@ This is my personal space to learn & experiment with new technology.
 
 ## 🚀 Projects & Use Cases
 
-- [x] **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
-    - *Use Case:* A strategy & ops planner for CEOs.
-    - *Tools:* flask, ollama
-    
 - [ ] **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
     - *Use Case:* A business app using LLM to generate & render the front-end HTML
     - *Tools:* flask, ollama
 
+- [x] **[To Do App](https://github.com/varun-jay-vj/app-to-do)** 
+    - *Use Case:* A simple app to create, track and update tasks.
+    - *Tools:* streamlit, sqlite3
+
+- [x] **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
+    - *Use Case:* A strategy & ops planner for CEOs.
+    - *Tools:* flask, ollama
+    
 - [x] **[Predict Housing Prices](https://github.com/varun-jay-vj/ml-price-predictor.git)** 
   - *Use Case:* Estimate house prices based on features  
   - *Dataset:* [California Housing](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
