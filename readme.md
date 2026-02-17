@@ -8,13 +8,11 @@ This is my personal space to learn & experiment with new technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-jay-vj/)   [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://valuemaximizer.substack.com/)  
 
-## 🚀 Projects & Use Cases
+# 🚀 Projects & Use Cases
 
 🤖 - ML models (probabilistic) vs. 💻 -  programmed (deterministic)
 
-- [ ] 🤖 **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
-    - *Use Case:* A business app using LLM to generate & render the front-end HTML
-    - *Tools:* flask, ollama
+### ✅ Completed
 
 - [x] 💻 **[To Do App](https://github.com/varun-jay-vj/app-to-do)** 
     - *Use Case:* A simple app to create, track and update tasks.
@@ -30,7 +28,13 @@ This is my personal space to learn & experiment with new technology.
      
 - [x] 🤖 **[CIFAR-10 Image Classifier](https://github.com/varun-jay-vj/ml-image-classifier)**
   - *Use Case:* Classify small images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
-  - *Tools:* PyTorch  
+  - *Tools:* PyTorch
+
+### ⏳ Backlog
+
+- [ ] 🤖 **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
+    - *Use Case:* A business app using LLM to generate & render the front-end HTML
+    - *Tools:* flask, ollama
 
 - [ ] 🤖 **Iris Flower Classification**  
   - *Use Case:* Classify flower species in the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
@@ -77,5 +81,5 @@ This is my personal space to learn & experiment with new technology.
   - *Tools:* Hugging Face, PyTorch  
 
 - [ ]  🤖 **Diffusion Model (Image Generation)**  
-  - *Use Case:* Generate realistic images using [CelebA datasets](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) / Custom dataset  
+  - *Use Case:* Generate realistic images using [CelebA datasets](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
   - *Tools:* PyTorch, Hugging Face Diffusers  
