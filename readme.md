@@ -10,84 +10,72 @@ This is my personal space to learn & experiment with new technology.
 
 ## 🚀 Projects & Use Cases
 
-- [ ] **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
+🤖 - ML models (probabilistic) vs. 💻 -  programmed (deterministic)
+
+- [ ] 🤖 **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
     - *Use Case:* A business app using LLM to generate & render the front-end HTML
     - *Tools:* flask, ollama
 
-- [x] **[To Do App](https://github.com/varun-jay-vj/app-to-do)** 
+- [x] 💻 **[To Do App](https://github.com/varun-jay-vj/app-to-do)** 
     - *Use Case:* A simple app to create, track and update tasks.
     - *Tools:* streamlit, sqlite3
 
-- [x] **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
+- [x] 💻 **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
     - *Use Case:* A strategy & ops planner for CEOs.
     - *Tools:* flask, ollama
     
-- [x] **[Predict Housing Prices](https://github.com/varun-jay-vj/ml-price-predictor.git)** 
-  - *Use Case:* Estimate house prices based on features  
-  - *Dataset:* [California Housing](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
+- [x] 🤖 **[Predict Housing Prices](https://github.com/varun-jay-vj/ml-price-predictor.git)** 
+  - *Use Case:* Estimate house prices based on features using [California Housing dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
   - *Tools:* Scikit-learn, Pandas, Matplotlib
      
-- [x] **[CIFAR-10 Image Classifier](https://github.com/varun-jay-vj/ml-image-classifier)**
-  - *Use Case:* Classify small images  
-  - *Dataset:* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)  
+- [x] 🤖 **[CIFAR-10 Image Classifier](https://github.com/varun-jay-vj/ml-image-classifier)**
+  - *Use Case:* Classify small images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
   - *Tools:* PyTorch  
 
-- [ ] **Iris Flower Classification**  
-  - *Use Case:* Classify iris species  
-  - *Dataset:* [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
+- [ ] 🤖 **Iris Flower Classification**  
+  - *Use Case:* Classify flower species in the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
   - *Tools:* Scikit-learn  
 
-- [ ] **Customer Segmentation**  
-  - *Use Case:* Segment retail customers  
-  - *Dataset:* [Mall Customers](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
+- [ ] 🤖 **Customer Segmentation**  
+  - *Use Case:* Segment retail customers using ML model from [visiting Mall Customers dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
   - *Tools:* Scikit-learn, Seaborn  
 
-- [ ] **Spam Email Classifier**  
-  - *Use Case:* Detect spam messages  
-  - *Dataset:* [SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
+- [ ] 🤖 **Spam Email Classifier**  
+  - *Use Case:* Detect spam messages by training ML model on [SMS Spam Collection dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
   - *Tools:* Scikit-learn, NLTK  
 
-- [ ] **Handwritten Digit Recognition**  
-  - *Use Case:* Recognize digits (0–9)  
-  - *Dataset:* [MNIST](http://yann.lecun.com/exdb/mnist/)  
+- [ ] 🤖 **Handwritten Digit Recognition**  
+  - *Use Case:* Recognize digits (0–9) from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/)  
   - *Tools:* PyTorch / TensorFlow  
 
-- [ ] **Movie Review Sentiment Analysis**  
-  - *Use Case:* Predict positive/negative reviews  
-  - *Dataset:* [IMDB Reviews](https://ai.stanford.edu/~amaas/data/sentiment/)  
+- [ ] 🤖 **Movie Review Sentiment Analysis**  
+  - *Use Case:* Predict positive/negative reviews based on [IMDB Reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/)  
   - *Tools:* PyTorch, Hugging Face  
 
-- [ ] **Stock Price Prediction**  
-  - *Use Case:* Forecast stock prices  
-  - *Dataset:* [Yahoo Finance API](https://pypi.org/project/yfinance/)  
+- [ ] 🤖 **Stock Price Prediction**  
+  - *Use Case:* Forecast stock prices using the [Yahoo Finance API dataset](https://pypi.org/project/yfinance/)  
   - *Tools:* Pandas, Scikit-learn, PyTorch (LSTM)  
 
-- [ ] **Image Generation (GANs)**  
-  - *Use Case:* Generate synthetic images  
-  - *Dataset:* [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) / [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
+- [ ] 🤖  **Image Generation (GANs)**  
+  - *Use Case:* Generate synthetic images by training model on [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) / [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
   - *Tools:* PyTorch / TensorFlow  
 
-- [ ] **CartPole Reinforcement Learning**  
-  - *Use Case:* Balance a pole on a cart  
-  - *Dataset:* [OpenAI Gym](https://www.gymlibrary.dev/)  
+- [ ] 🤖 **CartPole Reinforcement Learning**  
+  - *Use Case:* Balance a pole on a cart using [OpenAI Gym dataset](https://www.gymlibrary.dev/)  
   - *Tools:* PyTorch, Gym  
 
-- [ ] **Atari Game Agent (DQN)**  
-  - *Use Case:* Train agent to play Pong/Breakout  
-  - *Dataset:* [Atari Gym Envs](https://www.gymlibrary.dev/environments/atari/)  
+- [ ] 🤖  **Atari Game Agent (DQN)**  
+  - *Use Case:* Train agent to play Pong/Breakout with [Atari Gym Envs](https://www.gymlibrary.dev/environments/atari/)  
   - *Tools:* PyTorch, Gym  
 
-- [ ] **Image Caption Generator**  
-  - *Use Case:* Generate captions for images  
-  - *Dataset:* [MS COCO](https://cocodataset.org/)  
+- [ ]  🤖 **Image Caption Generator**  
+  - *Use Case:* Generate captions for images using [MS COCO dataset](https://cocodataset.org/)  
   - *Tools:* PyTorch, Hugging Face  
 
-- [ ] **Fine-tune a Large Language Model**  
-  - *Use Case:* Build custom Q&A or chatbot  
-  - *Dataset:* [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)  
+- [ ]  🤖 **Fine-tune a Large Language Model**  
+  - *Use Case:* Build custom Q&A or chatbot [using SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/)  
   - *Tools:* Hugging Face, PyTorch  
 
-- [ ] **Diffusion Model (Image Generation)**  
-  - *Use Case:* Generate realistic images  
-  - *Dataset:* [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) / Custom dataset  
+- [ ]  🤖 **Diffusion Model (Image Generation)**  
+  - *Use Case:* Generate realistic images using [CelebA datasets](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) / Custom dataset  
   - *Tools:* PyTorch, Hugging Face Diffusers  
