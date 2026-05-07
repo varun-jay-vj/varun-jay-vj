@@ -1,4 +1,5 @@
-## Varunraj "Jay" Jayaraman (VJ) - Engineer, Manager & Problem Solver.
+## Strategy & Tech
+
 This is my personal space to learn & experiment with new technology.
 - 💬 Ask me about ... enterprise technology - startups & products  
 - 📫 How to reach me: ... connect with me on LinkedIn or follow my newsletter on Substack
