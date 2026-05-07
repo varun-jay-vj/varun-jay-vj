@@ -87,7 +87,7 @@ A space to solve business problems with new tech.
     - *Use Case:* A business app using LLM to generate & render the front-end HTML
     - *Tools:* flask, ollama
      
-# 🚀 Fictional Business Context
+# 🚀 Fictional Grocery Store - Business Context
 <img width="1536" height="1024" alt="KBM Image" src="https://github.com/user-attachments/assets/ee194752-7dda-45d2-86f5-f5f86c786947" />
 
     
