@@ -18,10 +18,6 @@ A space to solve business problems with new tech.
     - *Use Case:* A simple app to create, track and update tasks.
     - *Tools:* streamlit, sqlite3
 
-- [x] 💻 **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
-    - *Use Case:* A strategy & ops planner for CEOs.
-    - *Tools:* flask, ollama
-    
 - [x] 🤖 **[Predict Housing Prices](https://github.com/varun-jay-vj/ml-price-predictor.git)** 
   - *Use Case:* Estimate house prices based on features using [California Housing dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
   - *Tools:* Scikit-learn, Pandas, Matplotlib
@@ -30,19 +26,15 @@ A space to solve business problems with new tech.
   - *Use Case:* Classify small images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
   - *Tools:* PyTorch
 
-### ⏳ Backlog
+- [ ] 🤖 **Customer Segmentation**  
+  - *Use Case:* Segment retail customers using ML model from [visiting Mall Customers dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
+  - *Tools:* Scikit-learn, Seaborn  
 
-- [ ] 🤖 **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
-    - *Use Case:* A business app using LLM to generate & render the front-end HTML
-    - *Tools:* flask, ollama
+### ⏳ Backlog
 
 - [ ] 🤖 **Iris Flower Classification**  
   - *Use Case:* Classify flower species in the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
   - *Tools:* Scikit-learn  
-
-- [ ] 🤖 **Customer Segmentation**  
-  - *Use Case:* Segment retail customers using ML model from [visiting Mall Customers dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
-  - *Tools:* Scikit-learn, Seaborn  
 
 - [ ] 🤖 **Spam Email Classifier**  
   - *Use Case:* Detect spam messages by training ML model on [SMS Spam Collection dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
@@ -82,4 +74,15 @@ A space to solve business problems with new tech.
 
 - [ ]  🤖 **Diffusion Model (Image Generation)**  
   - *Use Case:* Generate realistic images using [CelebA datasets](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
-  - *Tools:* PyTorch, Hugging Face Diffusers  
+  - *Tools:* PyTorch, Hugging Face Diffusers
+     
+  ### ❔ New Software Ideas
+
+- [x] 💻 **[SOP Strategy & Ops Planner](https://github.com/varun-jay-vj/sop-strategy-ops-planner)**
+    - *Use Case:* A strategy & ops planner for CEOs.
+    - *Tools:* flask, ollama
+  
+- [X] 🤖 **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
+    - *Use Case:* A business app using LLM to generate & render the front-end HTML
+    - *Tools:* flask, ollama
+    
