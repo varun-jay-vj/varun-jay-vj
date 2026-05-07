@@ -1,9 +1,8 @@
 ## Strategy & Tech
+A space to solve business problems with new tech.
 
-This is my personal space to learn & experiment with new technology.
 - 💬 Ask me about ... enterprise technology - startups & products  
 - 📫 How to reach me: ... connect with me on LinkedIn or follow my newsletter on Substack
-- ⚡ Fun fact: ... I love solving business problems & learning about new tech 🚀
 
 🌐 Connect with Me
 
