@@ -8,6 +8,7 @@ A space to solve business problems with new tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-jay-vj/)   [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://valuemaximizer.substack.com/)  
 
+
 # 🚀 Projects & Use Cases
 
 🤖 - ML models (probabilistic) vs. 💻 -  programmed (deterministic)
@@ -85,4 +86,8 @@ A space to solve business problems with new tech.
 - [X] 🤖 **[Generative UI](https://github.com/varun-jay-vj/gen-UI-app)** 
     - *Use Case:* A business app using LLM to generate & render the front-end HTML
     - *Tools:* flask, ollama
+     
+# 🚀 Fictional Business Context
+<img width="1536" height="1024" alt="KBM Image" src="https://github.com/user-attachments/assets/ee194752-7dda-45d2-86f5-f5f86c786947" />
+
     
