@@ -27,7 +27,7 @@ A space to solve business problems with new tech.
   - *Use Case:* Classify small images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
   - *Tools:* PyTorch
 
-- [x] 🤖 **Customer Segmentation(https://github.com/varun-jay-vj/customer-segmentation)**  
+- [x] 🤖 **[Customer Segmentation](https://github.com/varun-jay-vj/customer-segmentation)**  
   - *Use Case:* Segment retail customers using ML model from [visiting Mall Customers dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
   - *Tools:* Scikit-learn, Seaborn  
 
